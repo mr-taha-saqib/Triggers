@@ -80,5 +80,3 @@
    - Confirm the trigger prevents the operation and raises an error.
 
 ---
-
-**Happy Coding!**
